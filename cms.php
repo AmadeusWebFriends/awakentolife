@@ -1,10 +1,13 @@
 <?php
 variables([
-	'link-to-section-home' => true,
+	//'link-to-section-home' => true,
 	'social' => [
-		[ 'type' => 'linkedin', 'url' => 'https://www.linkedin.com/in/vidya-shankar-1453ab49/', 'name' => 'Vidya' ],
+		[ 'type' => 'facebook', 'url' => 'https://www.facebook.com/vidyashankarchennai', 'name' => 'Vidya FB' ],
+		[ 'type' => 'instagram', 'url' => 'https://www.instagram.com/vidyashankarchennai/', 'name' => 'Vidya IG' ],
+		[ 'type' => 'linkedin', 'url' => 'https://www.linkedin.com/in/vidya-shankar-1453ab49/', 'name' => 'Vidya LI' ],
 	],
-	//'footer-variation' => 'no-widget',
+	'footer-variation' => 'single-widget',
+	'skip-directory' => true, //TODO: enable when each page has inner content
 ]);
 
 function site_before_render() {
