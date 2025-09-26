@@ -24,6 +24,6 @@ Waste segregation, composting, recycling, repurposing, reducing and upcycling, m
 
 ---
 
-## Feminine hygiene
+## Feminine hygiene & care
 
 This is a cause that is hardly spoken about and has remained a taboo until groups of women began speaking out about the need for hygienic washrooms and sanitary hygiene machines that will ease their working conditions. Colleges and schools still remain a problem where girls either take off on those days, suffer in silence or are forced to go home if they get their periods. A society that cares to make living and study place conditions comfortable for girls and women is a progressive one and I am attempting to increase awareness about this cause through various support activities.

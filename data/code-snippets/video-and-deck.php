@@ -9,5 +9,5 @@ DIV-ROW
 	DIV-CLOSE
 DIV-CLOSE
 '), [
-	'[this-slide]' => '<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZea4VTg_6ud4x5vvye5NCpGxS7Uhzx566cIxaAVut0pEg4mh0WNhdqmelIzJzpg/pubembed?start=true&loop=true&delayms=10000" frameborder="0" width="100%" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>'
+	'[this-slide]' => '<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZea4VTg_6ud4x5vvye5NCpGxS7Uhzx566cIxaAVut0pEg4mh0WNhdqmelIzJzpg/pubembed?start=true&loop=true&delayms=10000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>'
 ]);

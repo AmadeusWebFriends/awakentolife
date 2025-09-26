@@ -17,3 +17,7 @@ function site_before_render() {
 		'AwakenToLife' => '<span class="h5 cursive">' . variable('name') . '</span>',
 	]);
 }
+
+function after_footer_assets() {
+	echo getThemeSnippet('floating-button');
+}

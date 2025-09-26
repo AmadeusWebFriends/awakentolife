@@ -2,13 +2,14 @@
 $items = [
 	['image-name' => '../vidya-dias.png', 'slug' => ''],
 	['image-name' => 'vidya-business-acceleration.jpg', 'slug' => 'business-acceleration'],
-	['image-name' => 'vidya-environment.png', 'slug' => 'environmental-stewardship'],
+	['image-name' => 'vidya-parental-education.jpg', 'slug' => 'parents'],
 	['image-name' => 'vidya-montessori-trainer.jpg', 'slug' => 'montessori-education'],
 	['image-name' => 'vidya-sanitary-hygiene.jpg', 'slug' => 'feminine-care'],
+	['image-name' => 'vidya-environment.png', 'slug' => 'environmental-stewardship'],
 	['image-name' => 'vidya-posh.jpg', 'slug' => 'posh'],
 ];
 
-$start = sprintf('	<div class="col-md-%s mt-sm-2 pt-xs-3"><hr class="d-sm-none">', '2') . NEWLINE;
+$start = sprintf('	<div class="col-md-%s mt-sm-2 pt-xs-3 p-2"><hr class="d-sm-none">', '2') . NEWLINE;
 $tpl = replaceHtml('		<a href="%item-link%"><h3>%heading%</h3><img class="img-fluid" src="%cdn%%image-name%" /></a>');
 
 $op = '<div class="row">' . NEWLINES2;
