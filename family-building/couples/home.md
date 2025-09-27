@@ -1,5 +1,5 @@
 DIV-CENTER
-<img class="img-fluid" src="%cdn%vidya-sakhi.jpg" />
+<img class="img-fluid img-max-500" src="%cdn%vidya-sakhi.jpg" />
 DIV-CLOSE
 
 ---

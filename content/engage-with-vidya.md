@@ -1,24 +1,17 @@
-Do choose one of the below:<!--todo-->
+## Sessions and programs offered
 
 %services-codesnippet%
 
 <!--more-->
 <!--start-engage-->
 
-## Services
+## Write in your requirements
 
-### POSH Consulting
+Areas
 
-* Field 1
-
-### Montessori Training
-
-* Field 2
-
-### CSR Auditing
-
-* Field 3
-
-### Business Acceleration
-
-* Field 4
+* Business acceleration
+* Parental counselling
+* Montessori education
+* Feminine care
+* Environmental stewardship
+* POSH
