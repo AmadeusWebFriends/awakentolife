@@ -1,14 +1,22 @@
 <?php
-$show = getShuffledItems([
-	'four.jpg',
-	'one.jpg',
-	'three.jpg',
-	'two.jpg',
-], 2);
+$prefix = 'vidya-shankar-awakentolife-photo-';
+$show = getShuffledItems(range(1, 31), 5);
 
-$start = '<div class="col-md-6 col-xs-12">'; $end = '</div>';
-return $start . implode($end . NEWLINES2 . $start, array_map(
-	function($itm) { return '<img src="%cdn%shuffled/'
-		. $itm . '" class="img-fluid" />'; }, $show
-	)
-);
+$result = '<div class="masonry-thumbs grid-container row row-cols-6" data-big="3" data-lightbox="gallery">' . NEWLINE;
+
+$template = '<a class="grid-item" href="%cdn%photos/%prefix%%sno%.jpg" data-lightbox="gallery-item">
+	<img src="%cdn%photos/thumbnails/%prefix%%sno%.jpg" alt="photo %sno%"></a>' . NEWLINE;
+
+$vars = [
+	'cdn' => getHtmlVariable('cdn'),
+	'prefix' => $prefix,
+];
+
+foreach ($show as $sno) {
+	$vars['sno'] = str_pad($sno, 2, '0', STR_PAD_LEFT);
+	$result .= replaceItems($template, $vars, '%');
+}
+
+$result .= '</div>' . NEWLINES2;
+
+return $result;

@@ -10,7 +10,6 @@ echo returnLine('
 
 * [On quality of life](https://www.sarallearningcentre.com/post/quality-of-life)
 * [In the media](https://drive.google.com/drive/folders/1F_j7Xjc6vSnC0e7KriUz53fvR-04dfSO?usp=drive_link)
-* [Articles - pre 2014](https://drive.google.com/drive/folders/1irigat4JoSfy_Ai9Mccii68WAdJuedLL?usp=drive_link)
 * [Photos past](https://drive.google.com/drive/folders/1uPame3ZcQpaHWGHnxWeMoYAIz3FVTCM2?usp=drive_link)
 ');
 

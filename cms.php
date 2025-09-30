@@ -7,8 +7,7 @@ variables([
 		[ 'type' => 'linkedin', 'url' => 'https://www.linkedin.com/in/vidya-shankar-1453ab49/', 'name' => 'Vidya LI' ],
 	],
 	'footer-variation' => 'single-widget',
-	'skip-directory' => true, //TODO: enable when each page has inner content
-	'no-page-menu' => true,
+	//
 	'no-seo-info' => true,
 	'no-search' => true,
 ]);
@@ -18,6 +17,13 @@ function site_before_render() {
 	variable('htmlReplaces', [
 		'Vidya' => '<span class="h5 cursive">Vidya Shankar Chakravarthy</span>',
 		'AwakenToLife' => '<span class="h5 cursive">' . variable('name') . '</span>',
+	]);
+
+	$noInner = nodeIsNot('articles');
+	variables([
+		//todo - undo the moron logic of messing up 2 variables!
+		'skip-directory' => $noInner, //TODO: enable when each page has inner content
+		'no-page-menu' => $noInner,
 	]);
 
 	/*
