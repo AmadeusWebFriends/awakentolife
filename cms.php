@@ -19,7 +19,7 @@ function site_before_render() {
 		'AwakenToLife' => '<span class="h5 cursive">' . variable('name') . '</span>',
 	]);
 
-	$noInner = nodeIsNot('articles');
+	$noInner = nodeIsNot('articles') && nodeIsNot('audio');
 	variables([
 		//todo - undo the moron logic of messing up 2 variables!
 		'skip-directory' => $noInner, //TODO: enable when each page has inner content

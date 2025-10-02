@@ -1,0 +1,22 @@
+#sno	title_urlized	excerpt_md	original_link
+|is-table
+
+||no-content-box: yes
+||use-a-bootstrap-row: yes
+||row-template: <div class="col-md-4 col-sm-6 col-xs-12 p-3"><div class="content-box"><h3 class="h5"><a class="float-right ms-2" href="%cdn%%nodeSlug%/Vidya-Shankar-article-%sno%.pdf" data-lightbox="iframe">open</a>%title_humanized%</h3>%excerpt_md%<hr />%original_link%</div></div>
+||original_link_text_format: domain
+
+|all pdfs have been uploaded
+|todo: use masonry
+
+10	==title-10==	[excerpt to follow]	#
+09	==title-09==	[excerpt to follow]	#
+08	==title-08==	[excerpt to follow]	#
+07	==title-07==	[excerpt to follow]	#
+06	==title-06==	[excerpt to follow]	#
+05	==title-05==	[excerpt to follow]	#
+04	==title-04==	[excerpt to follow]	#
+
+02	Relief Foundation history	Vidya Shankar's initiative to promote micro schools in rural Tamil Nadu to provide free education to neglected children is the culmination of 15 years of work with children. Her love for children led her to adopt her second child in 1992 and together with her husband, she started the Adoptive Families Association in 1995 to aid, advise and prepare adults for adoption. "Shortly after that I began investigating the existence of a large number of orphanages and started to research underprivileged children and their problems. This prompted me to set up the Relief Foundation in 1998 together with two other adoptive parents &mdash; family friend R. Kumar and her brother C.V. Vinod &mdash; and we began to work for rehabilitation of children in juvenile and observation homes in Chennai," she recalls.	http://www.educationworldonline.net/index.php/page-article-choice-more-id-2618
+
+01	Chennai-based Vidya Shankar is out to change the course of the future. One child at a time.	Vidya Shankar is a woman who dons many hats. But she is, first and foremost, a child rights activist. In 1998, she set up an NGO called Relief Foundation, to find rehabilitation solutions for children in distress and in institutional care. From 2001-2005, she held important portfolios within the government, as a chairperson of the juvenile welfare board, Chennai, and member magistrate of the juvenile justice board. She is now the honorary project head and trustee of Shriram Foundation and the honorary chief of Project GIVELIFE.	http://postnoon.com/2013/03/24/loving-an-extended-family/115845

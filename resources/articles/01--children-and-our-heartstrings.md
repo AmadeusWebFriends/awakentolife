@@ -20,6 +20,8 @@ DIV|LARGELIST
 * The adult, when approached, refuses food or clothing and wants only money.
 * The adult is not related to the child.
 
+DIV-CLOSE
+
 If the adult woman is holding a maimed sleeping child, surely it has been rented from a poor family on a per day basis. The child has been drugged and a dyed bandaid adorns it for sympathy.
 
 The adults running the beggary mafia are well connected to politicians in some way. They bring in a certain pressure from political circles when the children are apprehended and plead never to send the child for begging again. But within a week, the child can be seen in some other area. 
