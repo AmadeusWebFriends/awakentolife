@@ -32,3 +32,10 @@ DIV-CLOSE
 * Instead there is dumbing down with textbooks and standardised testing. The stage is set for education and policy makers to revisit the objectives of schooling children. The idea of education alienated from life seems to elude children who also grow up to be fractured in thought and spirit.
 * When World War took it's toll, philosophers from all over the world conferred on this one topic - Education alone holds the key to change the crisis situation in the world.
 * An experienced group of Montessori and High school educators who follow experiential learning are available with us to help, guide and mentor the programs of your school, with impact analysis and child rights compliance advice and assessment.
+
+---
+
+## Media Links
+
+* [AMI - Dignity](https://montessori-ami.org/news/every-child-deserves-be-treated-dignity)
+* [Building Montessori Families](https://www.linkedin.com/pulse/building-montessori-families-vidya-shankar)

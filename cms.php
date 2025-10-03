@@ -5,6 +5,7 @@ variables([
 		[ 'type' => 'facebook', 'url' => 'https://www.facebook.com/vidyashankarchennai', 'name' => 'Vidya FB' ],
 		[ 'type' => 'instagram', 'url' => 'https://www.instagram.com/vidyashankarchennai/', 'name' => 'Vidya IG' ],
 		[ 'type' => 'linkedin', 'url' => 'https://www.linkedin.com/in/vidya-shankar-1453ab49/', 'name' => 'Vidya LI' ],
+		[ 'type' => 'youtube', 'url' => 'https://www.youtube.com/@awaken-to-life', 'name' => 'ATL YT' ],
 	],
 	'footer-variation' => 'single-widget',
 	//

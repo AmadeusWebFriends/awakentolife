@@ -21,3 +21,9 @@ DIV-CLOSE
 
 * To this end there has to be authentic sources that awaken the inner compass combined with the natural human tendencies to bring out the best potential of the children, when conditions offered nurture the mental and physical environments of the child.
 * Today, in a day of hurried existence, time to pause and think seems missing that has led us to the nadir of chaos in humanity especially for children. ATL is a platform that invites parents to heal and grow into the best parents that their children deserve!
+
+---
+
+## Media Links
+
+* [On quality of life](https://www.sarallearningcentre.com/post/quality-of-life)

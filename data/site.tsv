@@ -15,6 +15,7 @@ fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.5rem&menu-height=44px
 
 sections	services, family-building, resources
 _todo	books
+scaffold	quotes
 
 phone	+91-99446-13064
 whatsapp	919944613064
@@ -23,5 +24,5 @@ whatsapp2	919444606456
 email	vidya@awakentolife.org
 
 local-url	http://localhost/friends/awakentolife/
-live-url	https://preview.awakentolife.org/
+live-url	https://awakentolife.org/
 year	2021
