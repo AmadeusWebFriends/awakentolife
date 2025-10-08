@@ -1,15 +1,15 @@
 DIV-CENTER
 DIV-ROW
 DIV-CELL4
-[download](%cdn%vidya-montessori-trainer.jpgBTNSITE)<br /><br />
+[download](%cdn%vidya-montessori-trainer.jpgBTNDOWNLOAD)<br /><br />
 <img class="img-fluid" src="%cdn%vidya-montessori-trainer.jpg" />
 DIV-CLOSE
 DIV-CELL4
-[download](%cdn%vidya-montessori-transitioning.jpgBTNSITE)<br /><br />
+[download](%cdn%vidya-montessori-transitioning.jpgBTNDOWNLOAD)<br /><br />
 <img class="img-fluid" src="%cdn%vidya-montessori-transitioning.jpg" />
 DIV-CLOSE
 DIV-CELL4
-[download](%cdn%vidya-school-leadership.jpgBTNSITE)<br /><br />
+[download](%cdn%vidya-school-leadership.jpgBTNDOWNLOAD)<br /><br />
 <img class="img-fluid" src="%cdn%vidya-school-leadership.jpg" />
 DIV-CLOSE
 DIV-CLOSE
@@ -19,10 +19,10 @@ DIV-CLOSE
 
 ---
 
-## Dear Education Community,
+## Montessori enrichment programs
 
 * Have you felt the need to empower yourself with more information on your tasks and deeper understanding of education itself? Whatever be your role in the education sector, it powerfully influences a child's life.
-* If you are interested to know more on how we can empower you, please do reach out to us. You will be helped and coached towards each role, with expert content gleaned from all over the world.
+* If you are interested to know more , please reach out with details about your school/learning centre.
 
 ---
 
@@ -37,5 +37,5 @@ DIV-CLOSE
 
 ## Media Links
 
-* [AMI - Dignity](https://montessori-ami.org/news/every-child-deserves-be-treated-dignity)
-* [Building Montessori Families](https://www.linkedin.com/pulse/building-montessori-families-vidya-shankar)
+* [Association Montessori International - Every child deserves to be treated with dignity](https://montessori-ami.org/news/every-child-deserves-be-treated-dignity)
+* [Building Montessori families](https://www.linkedin.com/pulse/building-montessori-families-vidya-shankar)

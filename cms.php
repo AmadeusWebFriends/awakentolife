@@ -11,6 +11,7 @@ variables([
 	//
 	'no-seo-info' => true,
 	'no-search' => true,
+	'link-to-node-home' => nodeIs('news-online'),
 ]);
 
 function site_before_render() {
@@ -20,7 +21,7 @@ function site_before_render() {
 		'AwakenToLife' => '<span class="h5 cursive">' . variable('name') . '</span>',
 	]);
 
-	$noInner = nodeIsNot('articles') && nodeIsNot('audio');
+	$noInner = nodeIsNot('articles');
 	variables([
 		//todo - undo the moron logic of messing up 2 variables!
 		'skip-directory' => $noInner, //TODO: enable when each page has inner content
